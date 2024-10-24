@@ -1,0 +1,17 @@
+{
+  "name": "video-call-p2p",
+  "version": "1.0.0",
+  "description": "a p2p video calling app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}
