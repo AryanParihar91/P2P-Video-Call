@@ -61,6 +61,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Express Framework](https://expressjs.com/)
 - [Socket.io Documentation](https://socket.io/)
 
-## Contact
-For any inquiries or support, please contact [your-email@example.com].
 
